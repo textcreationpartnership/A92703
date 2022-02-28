@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding good newes from South-Wales. Of the surrender of Tinby Castle upon mercy, on Wednesday the 17 of May, 1648. With the taking of Collonel Powel, and divers gentlemen, offficers and souldiers, to the number of five hundred and seventy. Also, good newes from the north, of the compleat condition of Major Generall Lambert, who is upon the borders of Cumberland and Westmerland. Together, with an exact and true relation, of the relief of Dover Castle, by the Lord Generall Fairfaxes forces, where were taken prisoners of the enemy 300 men, and 400 horse, the rest being beaten back to Sandwitch. Imprimatur G.M.</title>
+            <author>W. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92703</idno>
+            <idno type="STC">Wing S192</idno>
+            <idno type="STC">Thomason E446_27</idno>
+            <idno type="STC">ESTC R204845</idno>
+            <idno type="EEBO-CITATION">99864303</idno>
+            <idno type="PROQUEST">99864303</idno>
+            <idno type="VID">161789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161789)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding good newes from South-Wales. Of the surrender of Tinby Castle upon mercy, on Wednesday the 17 of May, 1648. With the taking of Collonel Powel, and divers gentlemen, offficers and souldiers, to the number of five hundred and seventy. Also, good newes from the north, of the compleat condition of Major Generall Lambert, who is upon the borders of Cumberland and Westmerland. Together, with an exact and true relation, of the relief of Dover Castle, by the Lord Generall Fairfaxes forces, where were taken prisoners of the enemy 300 men, and 400 horse, the rest being beaten back to Sandwitch. Imprimatur G.M.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.4: W.S.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "June 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Tenby (Wales) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Dover (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161789:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <p>Exceeding GOOD NEWES FROM SOUTH-WALES. OF The Surrender of <hi>Tinby</hi> Caſtle upon mercy, on Wedneſday the 17 of May, 1648.</p>
+            <p>With the taking of Collonel Powel, and divers Gentlemen, Officers and Souldiers, to the number of five hundred and ſeventy.</p>
+            <p>
+               <hi>ALSO,</hi> Good newes from the North, of the compleat condition of Major Generall <hi>Lambert,</hi> who is upon the Borders of <hi>Cumberland</hi> and <hi>Weſtmerland.</hi>
+            </p>
+            <p>TOGETHER, With an exact and true Relation, of the relief of <hi>Dover</hi> Caſtle, by the Lord Generall <hi>Fairfaxes</hi> forces, where were taken priſoners of the Enemy 300 men, and 400 horſe, the reſt being beaten back to <hi>Sandwitch.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>G. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>June 8<hi rend="sup">th</hi>
+               </add>LONDON, Printed by <hi>J. C. MDCXLVIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161789:2"/>
+            <!-- PDF PAGE 69 -->
+            <pb n="2" facs="tcp:161789:2"/>
+            <!-- PDF PAGE 69 -->
+            <head>Exceeding good Newes from SOVVTH-WALES, from that Honou<g ref="char:EOLhyphen"/>nourable Collonell <hi>HORTON,</hi> of the ſur<g ref="char:EOLhyphen"/>render of <hi>Tinby</hi> Caſtle, upon Mercy, <hi>Wedneſday</hi> the 31. of <hi>May,</hi> 1648.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg> After a long and tedious Siege of this Towne and Caſtle of <hi>Tenby,</hi> Finding a moſt reſolved and ſtubborn Enemy; but God did ſo enable us, that we were no way diſcomfited. Upon the 14. of <hi>May,</hi> wee Stormed the Town in one place, and were repulſed, then our men fel on a certain Work, where there were ſome ſlain, and 30. taken priſoner of the Enemies: preſently after this, they did very humbly ſeek from time to time, whereby they may March out upon Conditions, but our honourable Collonell <hi>Horton</hi> would give no eare to them, knowing the Serpen<g ref="char:EOLhyphen"/>tine Malvolency of their natures, eſpecially of that
+<pb n="3" facs="tcp:161789:3"/>
+               <!-- PDF PAGE 70 -->proud and inſolent Col. <hi>Powel,</hi> that ſhamefull Apo<g ref="char:EOLhyphen"/>ſtate, who indeed deſerves no mercy at all, but that he ſhould be caſt into that Curr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of the Fludgate of Juſtice, and made exemplarie to poſteritie, and to all perfide<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us villains.</p>
+            <p>This neſt of verment did not deſiſt from creeping and c<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auling, untill they were not able to ſubſiſt no longer and then they were foret to ſtrike ſayle, and ſubmit to mercy, and out pleaſures.</p>
+            <p>On Wedneſday laſt May the 31. 1648, we had an humble ſuite from this proud <hi>Powel,</hi> to deſire that Noble Col. <hi>Horton</hi> to take them into protection and mercy: upon which they did freelie and willinglie ſurrender a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<g ref="char:punc">▪</g> both Men Armes, and Ammunition, there are moſt part of the Gentlemen in <hi>Southwales,</hi> that were in this Rebellion againſt the Parliament, and their Armie; were the chiefe Ringleaders and compliciſes of theſe baſe Appoſtates, as namely, <hi>Laughorne</hi> and <hi>Powel,</hi> as I writ you before, there are a great many Gentlemen of qualitie, there be in all taken of Souldiers &amp; Gentlemen, between 5. or 600 who are now priſoners in <hi>Tinby</hi> under Col. <hi>Horton.</hi>
+            </p>
+            <p>I praiſe God the Lieut. Gen. is gallant and well, he hath ſubdued all the Rebellious party in <hi>South<g ref="char:EOLhyphen"/>wales,</hi> except <hi>Pembrooke</hi> Caſtle, of which you ſhall heare more preſently, All the Gentlemen of <hi>South<g ref="char:EOLhyphen"/>wales</hi> are come into him, I mean all thoſe that were not ingaged, and they hold a verie faire, and I believe a reall correſpondencie with him; for the common people that are the Natives of <hi>Wales,</hi> he did conſider they were but a ſeduced ignorant people, and they have promiſed never to take up Armes more, but for
+<pb facs="tcp:161789:3"/>
+               <!-- PDF PAGE 70 -->your arch Caveleering Rogues that were privatelie invited from <hi>London, Worſter Cheſter,</hi> and other parts of the Kingdom, meerly to haighten the miſchiefe in <hi>Wales,</hi> they are kept Priſoners, and it is intended the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be ſent to the <hi>Weſt india,</hi> for p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evention of further miſchiefes here. There be ſeverall Counties in Northwales that have aſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſiated, and are reſo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved to live and dy with the Parlament and Army, a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d all the Gent. of the whole Counties of <hi>Northwales</hi> hold a verie fair Coreſpondencie with L. G. <hi>Cromwel</hi> and have recourſe to him daily, the L. G. is now be<g ref="char:EOLhyphen"/>fore <hi>Pembrook</hi> Caſtle, and hath taken a Villedge that doth Command the Town, and part of the Caſtle, on which we have planted Batteries, which play in<g ref="char:EOLhyphen"/>to the Town daily, I do not qu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtion but we ſhall give a verie good account of it verie ſuddainly; the greateſt part of our forces are in a Capacitie to march, either <hi>North, South</hi> or <hi>Eaſt,</hi> according as the Parl. and my Lord Gen. ſhall appoint, becauſe they may be verie well ſpared here.</p>
+            <p>One thing I had almoſt forgot, they in <hi>Pembrooke</hi> are faine to feede their Horſe and Cowes with the Thatch of their houſes; <hi>Poyer</hi> pretends his old prin<g ref="char:EOLhyphen"/>c<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ples ſtill, and doth proteſt he was not confederate with <hi>Laughorn</hi> nor <hi>Powel</hi> in that Rebellion of <hi>South<g ref="char:EOLhyphen"/>wales:</hi> Now he is under the laſh, he makes ſhow of theſe Cullers; It is admired by the wel aff<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted in theſe parts, that, that Ordinance of Parl. is not put in execution againſt all thoſe that ſhall take up Arms ſince the deliverie of <hi>Oxford,</hi> contrarie to the conſent of the Lords and Commons aſſembled in Parl. or without Comm<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion from his Excellencie, Sir. <hi>Thomas Fairfax</hi> Captain Generall, &amp;c.</p>
+            <p>
+               <pb n="4" facs="tcp:161789:4"/>
+               <!-- PDF PAGE 71 -->
+I pray Sir ſend me down ſome of theſe Ordinances of Parliament, and it were well they were diſperſed throughout the whole Kingdome, to the Committees of each County, it would be a great meanes to prevent the inſurrections and rebelli<g ref="char:EOLhyphen"/>ons that are in many Counties of this Kingdome; You may imagine my haſte by the rudeneſſe of my pen, I love you, and will be your faithfull friend</p>
+            <closer>
+               <signed>W. S.</signed>
+               <dateline>From before Pembrook, <date>
+                     <hi>June</hi> the 5. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Exceeding good Newes from Major General <hi>Lambert</hi> out of the North, from the borders of <hi>Cumberland</hi> and <hi>VVeſtmerland.</hi>
+            </head>
+            <p>LAngdale and Muſgrave are in a diſ<g ref="char:EOLhyphen"/>pairing condition, they have beta<g ref="char:EOLhyphen"/>ken themſelves to Carlile, Duke Ha<g ref="char:EOLhyphen"/>milton hath fruſtrated them them of what
+<pb n="5" facs="tcp:161789:4"/>
+               <!-- PDF PAGE 71 -->he promiſed and they expected: Major Generall Lambert is in a very gallant con<g ref="char:EOLhyphen"/>dition, he is able now to march 7000 into the field, he hath regained Skipton Caſtle, which was ſurpriſed by the Enemy. Lang<g ref="char:EOLhyphen"/>dales men do melt from him daily, I do not fear before many dayes, but you will hear of the diſsipating of that Enemy: yet notwithſtanding, wee have ſome ill newes, which may prove to the beſt.</p>
+            <p>Many of the North being ill affected, they did ſo connive at a party of Langdales that marched obſcurely in the night, upon the Moors out of Cumberland into York<g ref="char:EOLhyphen"/>ſhire, having ſome private engagements from ſome perfidious men that were in truſt in Pomfret caſtle. One morning, there were a certain number of carts, pretending to lay in proviſion for the Caſtle, there were ſome 20 men came in Frocks with daggers and piſtols under their frocks, who ſurpriſed the Guard; then they had a par<g ref="char:EOLhyphen"/>ty of horſe with Muskateers behinde them which alighted preſently, and flanked the horſe, and ſo ſurpriſed the Caſtle.</p>
+            <p>
+               <pb n="6" facs="tcp:161789:5"/>
+               <!-- PDF PAGE 72 -->
+               <hi>Iune</hi> the 6. being Tueſday, Coll. <hi>Rich,</hi> Major <hi>Husbands,</hi> with their Horſe, and that valiant, and ever to be honoured, Coll. <hi>Hewſon,</hi> fell upon the Enemy that had beſieged Dover Caſtle, where there were ſome conteſt, not many ſlaine. Taken Priſo<g ref="char:EOLhyphen"/>ners by his Excellency, my Lord <hi>Fairfax</hi> Forces, of the Enemy befoe that place of <hi>Dover Caſtle,</hi> 300 Men, 400. Horſe, releeved the Caſtle, and made all cleere and free, beaten the remainder of the Ene<g ref="char:EOLhyphen"/>my into <hi>Sandwich.</hi> This day being Tueſday, like<g ref="char:EOLhyphen"/>wiſe he ſent a commanded Party of Foot, which landed in <hi>Eſſex,</hi> to joyne with the Commanded party of Horſe, under the Command of Col. <hi>Whae<g ref="char:EOLhyphen"/>ley,</hi> the appearance of which made the Eſſex Calves, and the Kentiſh Elves, runne away in the night from Bow-bridge, and diſperſt themſelves in<g ref="char:EOLhyphen"/>to the Countrey, who are now perſued into Eſſex, by his Excellencies Forces under the command of Collonell <hi>Whaley. June</hi> 7. being Wedneſday his Excellencie Marched from <hi>Rocheſter</hi> towards <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and it is thought, will bee at Ellton this night.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="6" facs="tcp:161789:6"/>
+            <!-- PDF PAGE 73 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
